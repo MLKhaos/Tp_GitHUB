@@ -1,3 +1,5 @@
 ## Projet Git et GitHub
 
-Participant : Mougamadou Fadil
+Participant 1 : Mougamadou Fadil
+
+Participant 2 : Singh Mankarn
